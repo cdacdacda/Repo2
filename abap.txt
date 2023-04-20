@@ -1,4 +1,2 @@
-Dies ist ein erster Git Test
-Dies ist ein zweiter Git Test
-Dies ist ein dritter Test
-
+Input Name $a
+print "Hallo";$a
